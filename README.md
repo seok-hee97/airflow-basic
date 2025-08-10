@@ -16,9 +16,9 @@ and implement data engineering tasks in an easy and repeatable fashion—helping
 
 ### TOC
 
-#### Intro to Airflow
-#### Implementing Airflow DAGs
-#### Maintaining and moniotring Airflow workflows
-#### Building production pipelines in Airflow
+#### CH01 : Intro to Airflow
+#### CH02 : Implementing Airflow DAGs
+#### CH03 : Maintaining and moniotring Airflow workflows
+#### CH04 : Building production pipelines in Airflow
 
 
